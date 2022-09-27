@@ -1,0 +1,11 @@
+Model Information:
+* title:	Doctor Mario
+* source:	https://sketchfab.com/3d-models/doctor-mario-85d76d136fcf4ad981b6f89a1cb0fcb5
+* author:	projectmgame (https://sketchfab.com/projectmgame)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Doctor Mario" (https://sketchfab.com/3d-models/doctor-mario-85d76d136fcf4ad981b6f89a1cb0fcb5) by projectmgame (https://sketchfab.com/projectmgame) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
